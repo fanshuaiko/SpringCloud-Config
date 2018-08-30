@@ -1,2 +1,2 @@
 # springcloud-config
-SpringCloud配置中心示例
+ Configuration center of SpringCloud
